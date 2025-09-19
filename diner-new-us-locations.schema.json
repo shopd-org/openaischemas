@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.com/diner-new-us-locations.schema.json",
+  "$id": "https://raw.githubusercontent.com/shopd-org/openaischemas/main/diner-new-us-locations.schema.json",
   "title": "New US Locations",
   "description": "Array of new US restaurant locations extracted from a brand website.",
   "type": "array",
